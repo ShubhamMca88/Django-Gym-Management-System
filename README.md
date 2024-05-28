@@ -5,7 +5,7 @@
         </samp>
 </h1>
 <p align="center">
-        <samp> Hy I'm shubham, as developer with a passion for crafting clean and efficient code. Proficient in frontend and backend technologies, with a focus on creating intuitive user experiences and scalable solutions. Dedicated to continuous learning and staying updated with the latest industry trends. Ready to contribute to dynamic teams and drive impactful projects.
+        <samp> Hi, I'm Shubham as a developer skilled in frontend and backend technologies. I create user-friendly and scalable solutions with clean code. I’m always learning and up-to-date with industry trends. Ready to join dynamic teams and work on impactful projects.
         </samp>
 </p>
 
@@ -17,12 +17,12 @@
 
 ## Project title
 
-This repository contains the code for Simple resume website templates using django .
+This repository contains the gym management system website using django .
 
 ## Features
 
 - Responsive design
-- Portfolio showcase
+- Gym Portfolio showcase
 - About Me section
 - Contact form
 
